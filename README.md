@@ -13,4 +13,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/tejaswinikoduri0205-max/sql_2026/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/tejaswinikoduri0205-max/sql_2026/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/tejaswinikoduri0205-max/sql_2026/tree/master/1729-find-followers-count) |
+| [1965-employees-with-missing-information](https://github.com/tejaswinikoduri0205-max/sql_2026/tree/master/1965-employees-with-missing-information) |
 <!---LeetCode Topics End-->
